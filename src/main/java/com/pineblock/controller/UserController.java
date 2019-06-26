@@ -37,5 +37,9 @@ public class UserController {
             throw new Exception("cuowu");
         }
     }
+    
+    public static void main(String[] args){
+       
+    }
 
 }
